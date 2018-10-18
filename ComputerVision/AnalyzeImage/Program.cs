@@ -11,7 +11,7 @@ namespace ImageAnalyze
     class Program
     {
         // subscriptionKey = "0123456789abcdef0123456789ABCDEF"
-        private const string subscriptionKey = "e1c149a5b1df414e9be79ce2b87ef446";
+        private const string subscriptionKey = "***";
 
         // localImagePath = @"C:\Documents\LocalImage.jpg"
         private const string localImagePath = @"D:\Pictures\kani1.jpg";
